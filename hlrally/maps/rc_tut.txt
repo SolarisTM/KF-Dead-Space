@@ -1,0 +1,35 @@
+
+rc_tut is a map made by Creme/X-Tender for the HLRally TDK (Track Developers Kit)
+It was packed with an RMF file that was missing a bunch of different things, so I tried fixing it. - b1rd
+
+info_camera acts as the reference point for the stationary camera mode. 
+info_waypoints are used by bots to follow the track.
+info_checkpoints brushes need to touch the ground, if they don't they won't count when you go through them (i think)
+======================================
+
+rc_tut - Thursday, 30 May, 2002 - Creme/X-Tender
+============================
+
+Tutorial track for HL-Rally.
+Learn how to use info_checkpoints and how to creatively use 
+trianges to make landscape and curves.
+
+If you have any questions, please email me on the address(s) below.
+Please visit the Pitstop site for other tutorials.
+
+PitStop: http://maps.hlrally.net/
+
+o Creme
+
+============================
+Thursday, 30 May, 2002
+by Michael 'Creme' Danzo & Paul 'X-Tender' Kamma
+Websites: 
+http://maps.hlrally.net/
+http://www.cremateddesign.cjb.net/
+http://www.fuchtelworld.de
+Emails:   
+creme@hlrally.net
+michael_danzo@hotmail.com
+x-tender@hlrally.net
+x-tender@gmx.de

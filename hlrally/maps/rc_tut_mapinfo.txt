@@ -1,0 +1,5 @@
+ Tutorial Map
+   90% Dirt
+   10% Road
+ By: Creme/X-Tender
+ Recompiled: b1rd
